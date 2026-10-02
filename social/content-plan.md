@@ -60,6 +60,18 @@ Move to the next phase only if the previous one was hit for two weeks in a row.
 
 **Measure from week 1:** since baseline views are unknown, record TikTok views per video, profile views and link/phone taps weekly as the starting baseline; set numeric targets after four weeks.
 
+## Competitor-informed content rules (added from `competitor-audit.md`)
+Basis: 11 public TikTok videos and 6 small professional cleaners; no local competitor has a meaningful TikTok presence; Instagram/Facebook competitors unverified.
+
+1. **Format A, "one-take transformation":** 30-60s, one angle, no cuts, natural sound, ends on the clean reveal. Make this the default Before & After Reel (Tue/Thu slots).
+2. **Title formula:** [adjective] + [item] + [time/result], e.g. "This couch hadn't been cleaned in 10 years" or "Smyrna carpet, 60 seconds." Put the city in the first line or on-screen text.
+3. **Hashtags: 4-6**, not 8. Two broad (#carpetcleaning #satisfying) plus 2-3 local (#smyrnatn #nashvillecleaning #murfreesboro). Replace the 8-tag list in the caption template; test fewer vs more for a month.
+4. **Format B, "clean with me":** one 80-160s unedited job per 2 weeks (best like-rate in the sample). Treat as an experiment.
+5. **Bio template** (matches the best small pros): `Carpet, upholstery, tile & grout, mattress | Smyrna, TN | Licensed & insured | Free estimate (615) 510-8451` plus website or booking link.
+6. **Volume before polish:** the accounts that grew posted 100+ videos. Do not wait for a perfect brand kit; film on every job and post the best of the batch.
+7. **Expectations:** typical professional posts in the sample got about 2-6K views and only some jobs go viral. Judge success by quote requests and calls, not views.
+8. **Local-first:** no local competitor is visible on TikTok, so the opportunity is to be the first recognizable local name there, but confirm demand by tracking calls per post.
+
 ## Weekly rhythm
 | Day | Post |
 |---|---|

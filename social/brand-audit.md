@@ -101,6 +101,8 @@ Takeaways (from the above, not from feed analysis):
 - A local-short-form-video niche could not be confirmed: no competitor TikTok accounts were found in search, which suggests an opening but is **not verified**.
 - Elena's could differentiate on the five-step process and fast dry times only if shown on video; competitors' "1 hour dry" claim is already in market.
 
+See `competitor-audit.md` for the TikTok benchmark of local competitors, six small professional cleaners and 11 sample videos (added after this section was written; it supersedes the "no competitor TikTok accounts found" note above: two local handles exist but are tiny and unconfirmed).
+
 ## Scorecard (1 = poor, 5 = strong; based on verified data only)
 | Area | Score | Basis |
 |---|---|---|
