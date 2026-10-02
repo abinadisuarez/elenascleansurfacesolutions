@@ -28,6 +28,38 @@
 
 **Time budget:** ~2 hours filming on job days (capture, don't stage), ~1.5 hours editing and scheduling per week. Batch-film once a week.
 
+## Baseline and ramp (added after the 2026-10-02 social audit)
+**Verified baseline (TikTok only):** 6 followers, 0 following, 10 videos, 35 likes, account created 2026-05-27, no link in bio, personal account. That is about 0.5 posts/week so far. Instagram and Facebook baselines are **unverified** (login wall / no URL); revisit this section once screenshots and Insights arrive.
+
+The 3-4 posts/week above is the **target**, not the starting point. Jumping from 0.5 to 4 per week on a 6-follower account usually burns out the manager before the account earns reach, so ramp:
+
+| Phase | Weeks | TikTok | Instagram | Facebook | Google Business |
+|---|---|---|---|---|---|
+| 0. Fix the basics | Week 1 | 1-2 (no new content needed) | Match bio to TikTok | Page cleanup | Verify listing |
+| 1. Build the habit | Weeks 2-4 | 2/week | 2 Reels/week (reuse) | 2/week (cross-post) | 1/week |
+| 2. Add proof | Weeks 5-8 | 3/week | 3 Reels + Stories | 3/week | 1-2/week |
+| 3. Full plan | Week 9+ | 3-4/week | per Cadence table | 3-4/week | 1-2/week |
+
+Move to the next phase only if the previous one was hit for two weeks in a row.
+
+**Platform priorities (revisit with real data)**
+1. **Google Business Profile and reviews:** highest conversion for local cleaning; costs one post per week.
+2. **Facebook:** local homeowners and groups; confirm the page exists and is complete (unverified).
+3. **Instagram:** transformations and proof; priority depends on Insights (unverified).
+4. **TikTok:** reach experiment, not the lead-gen channel yet: no link, 6 followers. Keep it at the lowest viable cadence by reusing Reels, and fix the profile first.
+
+**Week 0 checklist (before posting more)**
+- TikTok name to "Elena's Clean" (straight apostrophe); bio with area, phone, CTA; website text or link in bio.
+- Align the service list everywhere (tile and grout, auto detailing: confirm).
+- Pin: best before/after, five-step process, "get a free estimate".
+- Follow and engage with 20-30 local accounts; the account currently follows 0.
+
+**Audience growth for a tiny account (replace "build followers" with):** comment on local posts daily, tag city/service area in captions, ask every customer for a Google review, and put the phone number on every video end card.
+
+**Offers (data-informed):** local competitors advertise price anchors (e.g. a per-room price) and credentials. Test a clearly labeled "starting at" or example-job price post, and show "licensed and insured" and years in business on video, once the owner confirms the claims.
+
+**Measure from week 1:** since baseline views are unknown, record TikTok views per video, profile views and link/phone taps weekly as the starting baseline; set numeric targets after four weeks.
+
 ## Weekly rhythm
 | Day | Post |
 |---|---|
@@ -96,12 +128,12 @@
 |---|---|---|
 | Quote requests / calls | UTM links, call log | Track baseline |
 | Reach and saves | Platform insights | Up month over month |
-| Follower growth | Platform insights | Steady, local followers |
+| Follower growth | Platform insights | Baseline: TikTok 6 followers; set target after 4 weeks |
 | Google reviews | Google Business Profile | +4 per month |
 | Top posts | Insights | Repeat what works |
 
 ## Next steps
 1. Confirm goals, audience mix, and weekly time available.
-2. Share current Instagram, TikTok and Facebook state so the audit can be finished.
+2. Share Instagram screenshots and Insights, the Facebook URL, and TikTok Studio stats so the audit can be finished (see "Data still needed from the owner" in `brand-audit.md`).
 3. Choose accent colors and set up Canva templates for before/after, tip carousel, and review posts.
 4. Gather the best 10 past jobs for the first two weeks of content.
