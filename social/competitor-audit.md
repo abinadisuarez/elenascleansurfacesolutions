@@ -6,17 +6,43 @@
 - Instagram and Facebook competitor pages are login-walled or blocked from this environment, so **no Instagram/Facebook competitor data is included** (unverified). Competitor websites were also unreachable.
 - Account-level numbers are a snapshot; I could not list each account's full recent feed, so posting cadence per account is **unverified** except where stated.
 
-## 1. Local competitors (Middle Tennessee)
-| Competitor | TikTok finding |
-|---|---|
-| EverClean Nashville | Handle `@evercleannashville` exists: 6 followers, 2 videos, 2 likes; bio "professional carpet cleaning services in Nashville, TN". Whether this is the company's official account is **unverified**. |
-| Nashville Carpet Cleaning | `@nashvillecarpetcleaning` exists with 0 followers, 0 videos, empty bio; **unverified** that it belongs to the company. |
-| Murfreesboro Chem-Dry, Safe-Dry, Carpet Docs, Clean Carpets Co, Carpet Medic | No TikTok account found by handle guesses or search. Absence of a result is not proof they have none. |
-| Chattanooga Floor Care (`@chattfloorcare`, TN, concrete floors, not a direct competitor) | 133 followers, 13 videos, 419 likes, no link. |
+## 1. Local competitors that cover Elena's service area (primary focus)
+Elena's area (per website): Nashville, Murfreesboro, Smyrna, La Vergne, Franklin, Mount Juliet, Lebanon, Clarksville.
 
-**Takeaway (verified within the limits above):** I found no local carpet/upholstery competitor with a meaningful TikTok presence. Elena's Clean (6 followers, 10 videos, 35 likes) is level with the only local account found. Local TikTok is open, but that also means there is no local proof it generates leads. Competition for local customers is happening on Google, Facebook and Instagram, which I could not audit.
+**Access reality:** Facebook returns a login wall or HTTP 400 to logged-out `curl` (checked on 8 competitor pages), Instagram returns 429/login, and competitor websites reset the connection. Everything below about Facebook/Instagram/websites therefore comes from **search-result descriptions** (copied facts, not my review of their feeds). Their posting cadence, formats, post engagement and offers on social are **unverified**. TikTok was the only platform I could read directly.
 
-## 2. Small professional cleaners elsewhere (best "pattern" benchmarks)
+| Competitor | Overlap with Elena's area | Services / positioning (from search text) | Social presence found | Offer / price signal |
+|---|---|---|---|---|
+| Murfreesboro Chem-Dry | Murfreesboro, Smyrna, La Vergne, Nashville, Franklin | Residential + commercial carpet and upholstery; family owned since 2006; Hot Carbonating Extraction (fast dry) | Social accounts not found | None found |
+| Mr. B's Chem-Dry | Smyrna, La Vergne, Murfreesboro | Carpet, rug, tile, upholstery | Not found | None found |
+| Safe-Dry Carpet Cleaning (Murfreesboro and Mt. Juliet franchises) | Murfreesboro, Smyrna, Mt. Juliet, Lebanon | Hypoallergenic carpet, upholstery, tile, hardwood; about 1 hour dry; "open 24/7" | Facebook (`1800safedry`: 50% recommend, 8 reviews per snippet) and Instagram (`@safedrycarpetcleaning`, per search snippet) | **"3 Rooms $88"** shown on titles |
+| Safe Solutions Carpet Cleaning | Murfreesboro, Smyrna, Franklin, Brentwood | Local, family owned | Facebook (100% recommend, 12 reviews) and Instagram (per snippet) | None found |
+| Steem Master of Murfreesboro | Murfreesboro | Family owned; "premium fabric and floor care" | Facebook (100% recommend, 31 reviews) | None found |
+| Carpet Docs | Murfreesboro (and Smyrna area) | Carpet and upholstery, same-day service, 10+ years, "honest pricing" | Not found | "Honest pricing" claim |
+| Industrial Carpet & Upholstery Cleaning | Murfreesboro, Smyrna, La Vergne, Franklin, Lebanon, Mt. Juliet | Carpet, upholstery, tile | Not found | None found |
+| Clean N Go Carpet Cleaning | Smyrna | Local | Facebook (`Cleango817`) | Unknown |
+| The Shine Carpet Cleaning LLC | Smyrna (Sam Ridley Pkwy) | Local | Facebook (`TheShinecarpetclening`) | Unknown |
+| Mac Carpet Care | Smyrna | "Honest and affordable" | Not found | "Affordable" claim |
+| EverClean Nashville | Nashville, Franklin, Clarksville, Mt. Juliet | IICRC certified; since 2009; SaniVive steam plus low-moisture method; non-toxic; A+ BBB | Facebook, Instagram, YouTube, Pinterest, Medium, Nextdoor; 51 Yelp reviews (July 2026, per snippet) | "615-DRY-FAST" phone hook |
+| Nashville Carpet Cleaning | Nashville / Middle TN | Carpet, upholstery, rugs, vehicle, mattress (closest to Elena's mix) | Instagram `@nashvillecarpetcleaning` about 430 followers (search snippet, unverified); Facebook page | Before/after images on website |
+| Nashville Carpet Care | Nashville and surrounding | Residential and commercial carpet, rug, tile, upholstery, window | Facebook with before/after posts (per snippet) | None found |
+| Carpetmaster | Nashville | 25+ years; residential, commercial, government | Facebook (reviews page exists) | None found |
+| Zerorez, Oxi Fresh, Stanley Steemer, MasterClean of Mt. Juliet | Nashville, Mt. Juliet, Lebanon, Smyrna | National brands / 25+ year local firm | Facebook for Stanley Steemer; others unverified | Not collected |
+
+**TikTok (verified by direct fetch):**
+- No competitor above has a meaningful TikTok account I could confirm. Guessing handles mostly returned unrelated accounts, so I did **not** attribute them.
+- Two possible local handles: `@evercleannashville` (6 followers, 2 videos, 2 likes) and `@nashvillecarpetcleaning` (0 videos). Whether they are the companies' official accounts is **unverified**.
+- Conclusion: local TikTok is effectively empty. Elena's (6 followers, 10 videos) is at least level with the only local accounts found.
+
+**Local patterns visible in public text (not feed analysis):**
+1. **Reviews are the local currency.** Where review counts are visible they are small: 8, 12, 31 on Facebook, 51 on Yelp (EverClean). A steady flow of 4+ reviews a month would put Elena's in the range of the Murfreesboro field within a few months, if Elena's has reviews at all (unverified).
+2. **Trust claims repeated:** years in business (since 2006, 2009, 10+, 25+), IICRC certification, family owned, non-toxic/hypoallergenic, fast dry. Elena's site says "licensed and insured" and "fast dry" but no years or certification (confirm with owner).
+3. **Price anchors:** only Safe-Dry shows a number ("3 rooms $88"); most others say "honest/affordable". A concrete example price would stand out.
+4. **Availability hooks:** "same-day" (Carpet Docs), "open 24/7" (Safe-Dry), Sunday hours (Chem-Dry). Elena's is closed Sunday.
+5. **Elena's gaps vs. the field:** no testimonials, no gallery, no price, no years/certification on the site. Elena's strengths vs. this list: mattress + upholstery + auto interior and commercial floors together, and a stated five-step process.
+6. **Closest direct rival by service mix:** Nashville Carpet Cleaning (carpet, upholstery, rugs, vehicle, mattress). Check its Instagram first when screenshots are possible.
+
+## 2. Small professional cleaners elsewhere (content-pattern benchmarks only; not local competitors)
 | Account | Where | Followers | Videos | Likes | Bio / link |
 |---|---|---|---|---|---|
 | @mrlightningcarpet | Melbourne, AU (per search result) | 7,708 | 335 | 310,700 | "Carpet, upholstery, Tile & Grout cleaning, Foam and Hot Water extraction method"; no link |
@@ -67,7 +93,7 @@ Ignore or adapt:
 - Anything that needs a national audience. Local likes and a booking path matter more than views from outside the service area.
 
 ## 5. Still to do (needs data I cannot reach)
-- Instagram and Facebook audit of the five local competitors (cadence, formats, offers, reviews): needs screenshots or a logged-in session.
+- Instagram and Facebook audit of the local competitors in section 1 (cadence, formats, offers, reviews): needs screenshots or a logged-in session. Suggested priority: Nashville Carpet Cleaning, Safe-Dry (Murfreesboro/Mt. Juliet), Safe Solutions, Steem Master, EverClean.
 - Google Business Profile review counts and photos for each local competitor.
 - Verify whether `@evercleannashville` and `@nashvillecarpetcleaning` are the companies' official accounts.
 - Per-video feeds for the six benchmark accounts (to measure cadence and hit rate).

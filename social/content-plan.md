@@ -70,7 +70,8 @@ Basis: 11 public TikTok videos and 6 small professional cleaners; no local compe
 5. **Bio template** (matches the best small pros): `Carpet, upholstery, tile & grout, mattress | Smyrna, TN | Licensed & insured | Free estimate (615) 510-8451` plus website or booking link.
 6. **Volume before polish:** the accounts that grew posted 100+ videos. Do not wait for a perfect brand kit; film on every job and post the best of the batch.
 7. **Expectations:** typical professional posts in the sample got about 2-6K views and only some jobs go viral. Judge success by quote requests and calls, not views.
-8. **Local-first:** no local competitor is visible on TikTok, so the opportunity is to be the first recognizable local name there, but confirm demand by tracking calls per post.
+8. **Local competitor angles (from `competitor-audit.md` section 1, search-text level):** show what rivals only claim: a visible price example ("3 rooms from $X", pending owner approval; only Safe-Dry posts a number), years in business and certifications if true, fast-dry timing on camera, mattress/upholstery/auto together, and weekend/Saturday availability. Make reviews a weekly habit: Murfreesboro rivals show only 8-31 Facebook reviews.
+9. **Local-first:** no local competitor is visible on TikTok, so the opportunity is to be the first recognizable local name there, but confirm demand by tracking calls per post.
 
 ## Weekly rhythm
 | Day | Post |
