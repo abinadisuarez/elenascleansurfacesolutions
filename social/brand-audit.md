@@ -42,3 +42,33 @@ Source: https://elenaclean.com/ (reviewed 2026-10-02). Social profiles (Instagra
 - Pin a post that explains the five-step process.
 - Ask the last 10 customers for a Google review and a short video or photo; reuse with permission.
 - Add UTM-tagged quote links per platform to measure leads.
+
+## Social profile review (public data, logged-out, 2026-10-02)
+
+### TikTok: @elenasclean
+| Item | Finding |
+|---|---|
+| Display name | "Elena´s Clean" (uses an acute accent instead of an apostrophe, so it will not match searches for "Elena's Clean") |
+| Bio | "Commercial & residential Cleaning: Carpet, upholstery, tile & grout, Mattresses" |
+| Link in bio | **None** |
+| Followers / following | 6 / 0 |
+| Videos / total likes | 10 / 35 |
+| Verified | No |
+| Account created | ~late May 2026 (about 4 months old) |
+
+Observations:
+- The account is very new and small. 10 videos in ~4 months is roughly one post every 12 days, far below the 3-4 per week in the content plan.
+- No link in bio means TikTok viewers have no path to a quote. This is the highest-priority fix. (Business accounts or accounts with enough followers can add a link; otherwise put the phone number or "elenaclean.com" in the bio text.)
+- The bio mentions "tile & grout", which the website does not list. Align the two.
+- The bio gives no area, phone or CTA. Suggested: `Carpet, upholstery, tile & grout, mattress cleaning | Middle TN | Free estimates (615) 510-8451`.
+- Display name: change to a standard apostrophe ("Elena's Clean").
+- Per-video views and captions could not be read; review them manually in TikTok analytics.
+
+### Instagram: @elenasclean
+Not reviewable. Instagram returned only a login page to a logged-out visitor, so bio, counts, posts and highlights are unverified. Please share screenshots of the profile header and last 9-12 posts, plus Insights if available.
+
+### Facebook
+Not reviewed (no page link was provided). Share the page URL.
+
+### Cross-platform consistency
+- Service list differs: website (commercial carpet, floor, upholstery, mattress, auto interior, specialty) vs TikTok bio (commercial and residential, carpet, upholstery, tile and grout, mattresses). Decide one master service list, including whether auto detailing and tile and grout are offered, and use it everywhere.
