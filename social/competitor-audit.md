@@ -42,6 +42,34 @@ Elena's area (per website): Nashville, Murfreesboro, Smyrna, La Vergne, Franklin
 5. **Elena's gaps vs. the field:** no testimonials, no gallery, no price, no years/certification on the site. Elena's strengths vs. this list: mattress + upholstery + auto interior and commercial floors together, and a stated five-step process.
 6. **Closest direct rival by service mix:** Nashville Carpet Cleaning (carpet, upholstery, rugs, vehicle, mattress). Check its Instagram first when screenshots are possible.
 
+### 1b. Instagram: local competitors (search-snippet level)
+**Access:** Instagram redirects logged-out `curl` to login (HTTP 429/302), so I did not read any feed and did not try to bypass it. The numbers below are follower/following/post counts that web search shows in each profile's description. They are **cached snapshots of unknown date**, may be out of date, and say nothing about content, cadence or engagement (all **unverified**). Elena's own `@elenasclean` returned no search results at all (likely not indexed; counts unverified).
+
+| Instagram account | Followers | Following | Posts | Relevance to Elena's area / services (per snippet) |
+|---|---|---|---|---|
+| @patriotcleaningtn (Patriot Cleaning) | 3,769 | n/a | n/a | Carpets, upholstery, vehicles, soft/power washing; Middle TN (Clarksville/Mt. Juliet side) |
+| @karitascleaningservice (Karita's Cleaning) | 1,833 | 288 | 1,155 | Nashville and Murfreesboro; general cleaning, not carpet-only |
+| @zeroreznashville (Zerorez Nashville) | 601 | 212 | 725 | National brand franchise, Nashville |
+| @anderson_carpet_cleaning | 610 | 609 | 54 | Carpet cleaning, Nashville area |
+| @nashvillecarpetcleaning | 430 | 397 | 5 | Carpet, upholstery, rugs, vehicle interiors, mattresses (closest service mix) |
+| @bcleancarpetllc (B Clean Carpet and Upholstery) | 268 | 430 | 54 | Carpet and upholstery |
+| @safedrycarpetcleaning (Safe-Dry) | 249 | n/a | n/a | "All-natural" carpet, rugs, upholstery; franchise with Murfreesboro/Mt. Juliet locations |
+| @masterfulcarpetcleaning | 164 | 185 | 73 | Carpet cleaning |
+| @the_shine_carpet_cleaning_llc | 71 | 196 | 31 | Smyrna (Sam Ridley Pkwy) |
+| @mrbscarpetfloorcleaning (Mr. B's) | 21 | 5 | 37 | Smyrna/Murfreesboro/La Vergne |
+| @carpetcleaningdudes | n/a | n/a | n/a | Nashville, Brentwood, Franklin; carpet, rug, upholstery, tile; phone in listing |
+| @nbfloorcare (Nashville's best floor care and restoration) | n/a | n/a | n/a | Floor care and restoration |
+| @thomas_restoration | n/a | n/a | n/a | Restoration, Clarksville, 34+ years |
+
+What this supports (and what it doesn't):
+- **Verified from the snippets:** local carpet and upholstery competitors on Instagram are small. Most are under 700 followers; the carpet-focused ones range from 21 to about 3,800. No local carpet specialist found is large.
+- Post counts vary widely: 5 posts (430 followers), 31-73 posts for small shops, 725 for Zerorez. A 430-follower account with 5 posts shows followers alone are not a sign of active content.
+- **Opportunity:** a consistent account with real before/after Reels (3 per week) would out-post nearly all of these within a few months. This is an inference from counts only; I could not see whether their posts are Reels, photos or reposts.
+- **Not verified:** engagement per post, formats, captions, hashtags, local tags, highlights, link in bio, offers. These need screenshots.
+- Account-level caution: this list mixes carpet specialists and general cleaning companies (Karita's, Maid in America, Concierge Cleaners are not direct competitors).
+
+**To finish Instagram properly (needs you):** open each handle above while logged in and send screenshots of the profile header and the last 9-12 posts (or tell me the view/like counts). Priority order: @nashvillecarpetcleaning, @patriotcleaningtn, @zeroreznashville, @safedrycarpetcleaning, @anderson_carpet_cleaning. Also send Elena's own `@elenasclean` header, grid and Insights.
+
 ## 2. Small professional cleaners elsewhere (content-pattern benchmarks only; not local competitors)
 | Account | Where | Followers | Videos | Likes | Bio / link |
 |---|---|---|---|---|---|
@@ -93,7 +121,7 @@ Ignore or adapt:
 - Anything that needs a national audience. Local likes and a booking path matter more than views from outside the service area.
 
 ## 5. Still to do (needs data I cannot reach)
-- Instagram and Facebook audit of the local competitors in section 1 (cadence, formats, offers, reviews): needs screenshots or a logged-in session. Suggested priority: Nashville Carpet Cleaning, Safe-Dry (Murfreesboro/Mt. Juliet), Safe Solutions, Steem Master, EverClean.
+- Instagram content analysis (section 1b has counts only) and Facebook audit of the local competitors in section 1 (cadence, formats, offers, reviews): needs screenshots or a logged-in session. Suggested priority: Nashville Carpet Cleaning, Safe-Dry (Murfreesboro/Mt. Juliet), Safe Solutions, Steem Master, EverClean.
 - Google Business Profile review counts and photos for each local competitor.
 - Verify whether `@evercleannashville` and `@nashvillecarpetcleaning` are the companies' official accounts.
 - Per-video feeds for the six benchmark accounts (to measure cadence and hit rate).
